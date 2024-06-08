@@ -3,8 +3,6 @@
 # SE-Assignment-6
  Assignment: Introduction to Python
 
- Sure, let's dive into each question:
-
 1. **Python Basics**:
    - Python is a high-level, interpreted programming language known for its simplicity and readability. Some key features include:
      - Readability: Python code is easy to read and understand, making it accessible to beginners and experienced developers alike.
